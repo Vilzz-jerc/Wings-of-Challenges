@@ -19,6 +19,7 @@ A JavaScript-based gaming application developed and showcased at **MEPEXPO'24**.
 - **JavaScript (Vanilla)**
 
 ## 📸 Screenshots
+<img width="1700" height="1000" alt="memory-game-javascript" src="https://github.com/user-attachments/assets/9c348306-e0a4-448f-915c-57e37e0e4104" />
 
 
 
