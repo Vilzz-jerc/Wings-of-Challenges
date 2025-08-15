@@ -25,7 +25,13 @@ A JavaScript-based gaming application developed and showcased at **MEPEXPO'24**.
 <img width="1700" height="1000" alt="memory-game-javascript" src="https://github.com/user-attachments/assets/9c348306-e0a4-448f-915c-57e37e0e4104" />
 <img width="1809" height="1014" alt="Bubble Shooter" src="https://github.com/user-attachments/assets/b6ef2ced-e680-4aec-b4a6-be49d38aabfc" />
 <img width="1780" height="986" alt="Fruit Ninja" src="https://github.com/user-attachments/assets/a38d25b0-f39d-40d1-8e3e-2343c59aee59" />
-![flappyonline-video-cutter com-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/c9d13e83-5150-473f-8cf7-811db6d234fe)
+<img width="1839" height="1015" alt="Flappy Bird" src="https://github.com/user-attachments/assets/899ed678-2114-45db-b5be-16fdcbe52059" />
+<img width="1807" height="1010" alt="Block game" src="https://github.com/user-attachments/assets/9d9147a9-11eb-43a8-a42d-59425e4a3ce0" />
+<img width="1841" height="1008" alt="Tower Building" src="https://github.com/user-attachments/assets/b04ab780-c2c7-43b6-928a-a5b8f7a2c085" />
+
+
+
+
 
 
 
